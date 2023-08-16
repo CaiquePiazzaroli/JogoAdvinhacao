@@ -22,6 +22,8 @@ function checkguess () {
         lastResult.textContent = "Você acertou!";
         lastResult.style.backgroundColor = "green";
         lowOrHi.textContent = "";
+        var nito = document.querySelector(".nito");
+        nito.style.display ="block";
         setGameOver();
     } else if (guessCount === 10) {
         lastResult.textContent ="Game over!!"
