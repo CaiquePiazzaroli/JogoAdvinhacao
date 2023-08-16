@@ -79,6 +79,10 @@ function resetGame () {
     //remove a cor vermelha do campo ultimo palpite
     lastResult.style.backgroundColor = "transparent";
 
+    //esconde o gif
+    var nito = document.querySelector(".nito");
+    nito.style.display ="none";
+
     // gera um novo número aleatório de 1 a 100
     randomNumber = Math.floor(Math.random() * 100) + 1;
 }
