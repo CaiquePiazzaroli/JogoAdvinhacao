@@ -1,6 +1,6 @@
 # Jogo da Advinhação feito com javascript!
 **Este repositório foi construido com base na documentação oficial MDN. 
-Nele eu busquei seguir o tutorial descrito no site MDN, mas adicionando novas funcionalidades e estilizando o visual **
+Nele eu busquei seguir o tutorial descrito no site MDN, mas adicionando novas funcionalidades e estilizando o visual**
 
 Acesse a [página oficial](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/A_first_splash) do tutorial no site MDN.
 
