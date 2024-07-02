@@ -4,6 +4,9 @@ Nele eu busquei seguir o tutorial descrito no site MDN, mas adicionando novas fu
 
 Acesse a [página oficial](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/A_first_splash) do tutorial no site MDN.
 
+## Acesse o link do repositório no github pages
+Link para jogar o jogo [Advinhe o número](https://caiquepiazzaroli.github.io/JogoAdvinhacao/).
+
 ## Instruções para executar o repoitório. 
 1. Baixe o repositório em sua máquina através do git ou pelo link direto no github.
 2. Extraia o repositório para uma pasta.
